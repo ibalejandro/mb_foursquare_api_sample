@@ -160,6 +160,8 @@ public class LocationSetupInteractorImpl implements LocationSetupInteractor,
   public void onLocationChanged(Location location) {
     Log.i(TAG, "onLocationChanged() was called.");
 
+    // Location update received.
+    mLocation = location;
     disconnectGoogleApiClient();
     notifyLocationAvailability(location);
   }
