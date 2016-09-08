@@ -1,0 +1,16 @@
+<resources>
+  <string name="app_name">MB Foursquare API Sample</string>
+  <string name="error_invalid_range">Range must be more than 0 and less than 100.000</string>
+  <string name="message_getting_location">Getting your location...</string>
+  <string name="action_retry_getting_location">Retry getting location</string>
+  <string name="action_go_to_map">Go to the map</string>
+  <string name="title_activity_map">Map</string>
+  <string name="prompt_enter_range">Enter a range (in m)</string>
+  <string name="error_no_internet">Problems with the Internet</string>
+  <string name="action_retry">Retry</string>
+  <string name="error_receiving_data">Problems receiving the data</string>
+  <string name="message_no_places_for_range">No places for the given range or search term</string>
+  <string name="prompt_enter_search_term">Enter a search term (optional)</string>
+  <string name="gym">gimnasio</string>
+  <string name="results">Results</string>
+</resources>
