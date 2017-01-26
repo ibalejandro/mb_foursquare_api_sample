@@ -7,7 +7,7 @@ After pressing the "Go to the map" button, the next screen shows a map centered 
 
 If no results are found using the Foursquare API, an error message is displayed to the user. He can go back and change the range or the search term, everytime he wants, to start another search.
 
-Take into account that a stable connection to the Internet is needed in order to be able to use the Foursquare API.
+> Take into account that a stable connection to the Internet is needed in order to be able to use the Foursquare API.
 
 ### References
 * [Foursquare for Developers] - API Endpoints (Visited on September 2016).
